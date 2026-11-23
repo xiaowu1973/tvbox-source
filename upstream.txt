@@ -8,14 +8,14 @@
 # 以下 4 个均为公开、长期维护、托管在 GitHub raw 的源（Actions 可稳定访问）。
 # ============================================================
 
-# 经典长维护源：XYQTVBox（站点丰富，含 // 注释，脚本已兼容 JSONC）
-https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/XYQTVBox.json
+# 经典长维护源：zheng1976（站点丰富，含 // 注释，脚本已兼容 JSONC）
+https://gh-proxy.org/https://github.com/xiaowu1973/drpy/blob/main/zheng1976/0820.json
 
-# 经典长维护源：XYQOnlineRule（站点 + 解析 + 直播 + 规则）
-https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+# 经典长维护源：wmz（站点 + 解析 + 直播 + 规则）
+https://8815.kstore.vip/tvbox/wmz
 
-# 懒猫/肥猫系 TVSpider（解析 + 直播 + 规则）
-https://raw.githubusercontent.com/jadehh/TVSpider/main/json/TVBox.json
+# 潇洒源 TVSpider（解析 + 直播 + 规则）
+https://9877.kstore.space/sun.json
 
 # jiusanzhou/tvbox 自动生成源（8 个站点 + 解析 + 直播，结构干净）
 https://raw.githubusercontent.com/jiusanzhou/tvbox/main/tvbox.json
