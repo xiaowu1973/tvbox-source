@@ -11,8 +11,8 @@
 # 经典长维护源：zheng1976（站点丰富，含 // 注释，脚本已兼容 JSONC）
 https://gh-proxy.org/https://github.com/xiaowu1973/drpy/blob/main/zheng1976/0820.json
 
-# 经典长维护源：wmz（站点 + 解析 + 直播 + 规则）
-https://8815.kstore.vip/tvbox/wmz
+# 经典长维护源：qist（站点 + 解析 + 直播 + 规则）
+https://qist.ugigc.dpdns.org/xiaosa/api.json
 
 # 潇洒源 TVSpider（解析 + 直播 + 规则）
 https://9877.kstore.space/sun.json
